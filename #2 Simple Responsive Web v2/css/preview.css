@@ -90,6 +90,26 @@ table {
     border: 0.02em solid black;
 }
 
+.kotak1 h1 {
+    font-size: 6rem;
+    position: absolute;
+    top: 3.6em;
+    left: 0.2em;
+}
+
+.kotak1 h5 {
+    font-size: 2rem;
+    position: absolute;
+    top: 7em;
+    left: 0.7em;
+}
+
+.kotak1 img {
+    width: 2em;
+    position: absolute;
+    left: 2.8em;
+}
+
 .container .kotak2 {
     width: 3em;
     height: 2em;
@@ -99,4 +119,11 @@ table {
     left: 7em;
     box-shadow: 0.25em -0.2em 0em #d902ee;
     border: 0.02em solid black;
+}
+
+.kotak2 h4 {
+    font-size: 3rem;
+    position: absolute;
+    top: 2em;
+    left: 1em;
 }
