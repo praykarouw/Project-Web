@@ -75,4 +75,28 @@ table {
     width: 100vw;
     height: 90vh;
     background-color: #320d3e;
+    font-size: 10rem;
+    position: relative;
+}
+
+.container .kotak1 {
+    width: 5em;
+    height: 3em;
+    background-color: #ffd79d;
+    position: absolute;
+    top: 1em;
+    left: 1em;
+    box-shadow: -0.25em -0.2em 0em #d902ee;
+    border: 0.02em solid black;
+}
+
+.container .kotak2 {
+    width: 3em;
+    height: 2em;
+    background-color: #ffd79d;
+    position: absolute;
+    top: 2em;
+    left: 7em;
+    box-shadow: 0.25em -0.2em 0em #d902ee;
+    border: 0.02em solid black;
 }
