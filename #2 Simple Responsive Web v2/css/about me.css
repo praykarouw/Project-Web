@@ -75,6 +75,7 @@ table {
     width: 100vw;
     height: 90vh;
     background-color: #320d3e;
+    clear: both;
 }
 
 .leftbox {
@@ -82,6 +83,7 @@ table {
     position: relative;
     width: 50vw;
     height: 90vh;
+    float: left;
 }
 
 .leftbox h1 {
@@ -99,4 +101,11 @@ table {
     left: 4em;
     line-height: 1.4em;
     color: #ffd79d;
+}
+
+.rightbox {
+    width: 50vw;
+    height: 90vh;
+    background-color: darkcyan;
+    float: left;
 }
