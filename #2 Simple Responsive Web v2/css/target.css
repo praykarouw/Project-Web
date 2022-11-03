@@ -75,4 +75,21 @@ table {
     width: 100vw;
     height: 90vh;
     background-color: #320d3e;
+    position: relative;
+}
+
+.target {
+    position: absolute;
+    top: 3em;
+    left: 5em;
+    color: #ffd79d;
+}
+
+.target h2 {
+    font-size: 4rem;
+}
+
+.target h5 {
+    margin-top: 1em;
+    font-size: 1.5rem;
 }
