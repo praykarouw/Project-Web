@@ -160,3 +160,13 @@ body h4 {
     background-color: #ffd79d;
     float: left;
 }
+
+.rightbox h2 {
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.rightbox p {
+    margin-left: 2em;
+}
