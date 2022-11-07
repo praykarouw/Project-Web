@@ -204,3 +204,20 @@ body h4 {
 .boxemail p {
     margin-left: 0.5em;
 }
+
+.phone {
+    margin-top: 2em;
+}
+
+.boxphone {
+    margin-top: 0.5em;
+    background-color: white;
+    padding: 0.5em 0;
+    width: 80%;
+    margin-left: 2em;
+    border: 0.2em solid black;
+}
+
+.boxphone p {
+    margin-left: 0.5em;
+}
