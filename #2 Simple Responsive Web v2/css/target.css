@@ -150,3 +150,32 @@ table {
     margin-top: 1em;
     line-height: 1.5em;
 }
+
+.box3 {
+    width: 20em;
+    height: 30em;
+    background-color: #d902ee;
+    border: 0.3em solid #ffd79d;
+    border-radius: 1em;
+    position: absolute;
+    top: 15em;
+    left: 75em;
+    clear: both;
+}
+
+.box3 h3 {
+    font-size: 3rem;
+    line-height: 1.1em;
+    margin-top: 0.5em;
+    margin-left: 0.2em;
+    color: #ffd79d;
+    float: left;
+}
+
+.box3 h5 {
+    font-size: 1.5rem;
+    float: left;
+    margin-left: 1em;
+    margin-top: 1em;
+    line-height: 1.5em;
+}
