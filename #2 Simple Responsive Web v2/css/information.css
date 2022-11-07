@@ -81,6 +81,36 @@ table {
     height: 90vh;
     background-color: #320d3e;
     float: left;
+    color: #ffd79d;
+}
+
+.leftbox h2 {
+    font-size: 4rem;
+    margin: 0.5em 0;
+    margin-left: 0.5em;
+}
+
+.leftbox p {
+    margin-left: 2em;
+}
+
+.leftbox .chatme {
+    margin-top: 3em;
+    margin-left: 2em;
+}
+
+.leftbox .chatme h4 {
+    font-size: 2rem;
+}
+
+.leftbox .chatme p {
+    margin-left: 0em;
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+}
+
+.leftbox .chatme u {
+    color: #f162ff;
 }
 
 .rightbox {
