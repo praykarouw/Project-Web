@@ -187,3 +187,20 @@ body h4 {
 .boxnama p {
     margin-left: 0.5em;
 }
+
+.email {
+    margin-top: 2em;
+}
+
+.boxemail {
+    margin-top: 0.5em;
+    background-color: white;
+    padding: 0.5em 0;
+    width: 80%;
+    margin-left: 2em;
+    border: 0.2em solid black;
+}
+
+.boxemail p {
+    margin-left: 0.5em;
+}
