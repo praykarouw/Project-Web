@@ -239,3 +239,17 @@ body h4 {
 .boxpesan p {
     margin-left: 0.5em;
 }
+
+.submit {
+    background-color: #f162ff;
+    width: 80%;
+    height: 2.5em;
+    border: 0.2em solid black;
+    margin-top: 2em;
+    margin-left: 2em;
+}
+
+.submit p {
+    text-align: center;
+    line-height: 2.5em;
+}
