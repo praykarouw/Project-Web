@@ -70,3 +70,22 @@ table {
     font-weight: bold;
     color: #320d3e;
 }
+
+.container {
+    width: 100vw;
+    clear: both;
+}
+
+.leftbox {
+    width: 50vw;
+    height: 90vh;
+    background-color: #320d3e;
+    float: left;
+}
+
+.rightbox {
+    width: 50vw;
+    height: 90vh;
+    background-color: #ffd79d;
+    float: left;
+}
